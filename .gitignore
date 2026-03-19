@@ -2,3 +2,6 @@
 *.jpg
 *.png
 *.pdf
+__pycache__/
+venv/
+.venv/
